@@ -1,0 +1,25 @@
+Kysely pelaajille ja kilpailunjärjestäjille.
+Tehdään kysely webropolilla, jolla kartoitetaan käyttäjille tärkeitä ominaisuuksia.
+Kilpailunjärjestäjille voisi tehdä oman kyselyn, jotta kyselyiden pituus pysyy sopivana.
+
+Listataan ominaisuuksia ja vastaaja valitsee vaihtoehdoista kuinka tärkeänä pitää ko. ominaisuutta.
+Mahdollisuus myös listata itselleen tärkeitä ominaisuuksia, mikäli niitä ei edellä mainittu.
+
+Oletko käyttänyt joitain seuraavista?
+	- UDisc
+	- Upsi
+	- Disc Golf Metrix
+	- PDGA Live
+	- Jokin muu, mikä?
+
+Kuinka usein käytät edellämainittuja sovelluksia? 
+	(Päivittäin, 2-3 kertaa viikossa, .... )
+
+Kuinka tärkeinä pidät seuraavia ominaisuuksia? (Valinta asteikolla 0-5, [0 = Ei lainkaan tärkeä, .... , 5 = Erittäin tärkeä].)
+	- Tähän lista ominaisuuksista
+	- #####
+	- #####
+
+
+
+

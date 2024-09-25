@@ -1,0 +1,36 @@
+Fairway tracker:
+	- Väyläkarttaan voi merkata paikan, johon heitto laskeutui.
+	- Joko pelaaja itse merkkaa, tai jokaisen ryhmän oma tuloksien kirjaaja merkkaa.
+	- Tulospalvelussa käyttäjä voi seurata reaaliajassa kartalta, miten pelaajat etenevät radalla.
+	- Yleisnäkymässä kartalla näkyy väylät, sekä kilpailua johtavan pelaajan sijainti.
+	- Kartalla voisi myös näkyä muita kiinnostavia pelaajia, tai muita kohokohtia.
+		- Parasta tulosta pelaava pelaaja, eli ns. "hot round"
+		- Hole in one, eagle tai muu kohokohta.
+		- Linkki mahdolliseen videoon tapahtumasta?
+	
+	- Kartalta voi siirtyä väyläkohtaiseen näkymään, jossa näkyy väylällä pelaavien pelaajien tilanne.
+	- Käyttäjä voisi valita seurattavaksi suosikkipelaajansa, jotka sitten näkyisivät kartalla.
+
+Fairway trackerin dataa voitaisiin hyödyntää eri tavoin:
+	- Kuinka kauan pelaajilla kesti pelata väylä?
+	- Joutuivatko pelaat odottamaan vuoroaan? 
+	- Heitoista voisi tehdä heatmapin, josta näkee minne pelaajien heitot yleensä päätyvät.
+	- Ratasuunnittelijat voivat hyödyntää tätä dataa parantaakseen väyliä, mikäli ne eivät toimi suunnitellusti.
+
+In the bag:
+	- Pelaajat voivat lisätä käytettävät kiekot ja tietoa niistä. ( Merkki, malli, muovi, paino, kuva jne.)
+	- Bägin sisältö esitetään visuaalisesti esim nopeuden ja vakauden mukaan järjestettynä.
+	- Tuloksia kirjatessa Fairway trackeriin voi merkata minkä kiekon pelaaja heitti.
+	- Pelaaja voi lisätä linkin esim. Youtube-videoon, jossa pelaaja kertoo tarkemmin bäginsä sisällöstä.
+
+Game modes:
+    Kun käyttäjä aloittaa uuden kierroksen, hän voi valita erilaisia pelimuotoja:
+		- Paripeli
+			- Best shot
+			- Worst shot
+			- Alternative shot
+		- Skins
+		- Arvotaan pelaajan bägistä kiekko ja heittotyyli jolla tulee heittää.
+        - 
+
+
