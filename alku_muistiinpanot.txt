@@ -1,0 +1,11 @@
+Aihe:
+Tulospalvelu jota voidaan käyttää frisbeegolf-turnauksissa.
+
+Mitä sisältää:
+Todennäköisesti web-sovellus jossa näytetään turnauksen aikaiset tiedot jotka päivittyvät reaaliajassa. Tarkoituksena on suunnitella palvelu toimimaan PWA:na, jotta myös mobiilikäyttö onnistuu, jolloin kilpailijat/tuomarit voivat kirjata tietoja palveluun.
+
+Teknologiat:
+- Progressive Web App -sovellus, oikein suunniteltuna toimii sellaisenaan niin työpöydällä kuin mobiilissa
+- Avoimen lähdekoodin karttapalvelu, jota on tarkoitus muokata omaan käyttöön, eli saadaan sisältämään mm. ratojen rajat ja kartat
+- Tietokannat joihin voi tallettaa tietoa kilpailun aikana
+- Rajapinnat voilla hoidetaan mm. tietojen hakeminen tietokannasta sekä käyttäjien  ja pelaajien tunnistautuminen palveluun
