@@ -1,0 +1,41 @@
+- neljä eri pääkomponenttia joita kehitetään
+    - backend
+    - web-frontend
+    - android
+    - ios
+
+- kyseessä rolling release, mukaillaan ISO 8601-standardia
+    - ohjelmisto kehittyy siis itse ajan mittaan, eikä tiettyjä versioita "myydä" asiakkaille
+    - jokaiselle käyttöalustalle on oma versionsa (web, android, ios). näiden lisäksi
+        backendistä on oma versionsa
+
+- versionhallintajärjestelmänä toimii git ja github
+    - kehityksen aikana jokaiselle käyttöalustalle + backendille on oma repository
+        - näissä hyödynnetään kehityksen aikaista versionumerointia
+        - uudet ominaisuudet ja päivitykset kehitetään omiin brancheihinsa, näiden valmistuessa mergetään
+            mainiin
+        - kehitysversion ollessa valmis, tehdään viimeiset laatutarkastukset, joiden jälkeen pusketaan
+            tuotantoon uutena versiona
+    - tuotantoversioille vastaavasti omat repositoryt
+        - hyödynnetään tuotannon aikaista versionumerointia
+    - github hoitaa kaiken tarvittavan (9 versionhallinta, diat 19-21)
+        - ei myöskään tarvitse hostata itse, joten ei tarvitse huolehtia palvelinten toiminnallisuudesta
+            ja ylläpidosta
+
+    - jokaisesta versiosta versiokohtainen dokumentaatio
+
+- kehityksen aikainen versionumerointi
+    - ensimmäinen osa on alustan tunniste, sitten julkaisun vuosi, kuukausi, kuinka mones julkaisu
+        ko. kuussa ja viimeisenä jokaiselle commitille oma tunniste
+        - backend: Backend v2024.11.2.1234
+        - web: Web v2024.11.1.1234
+        - android: Android v2024.11.1.1234
+        - ios: iOS v2024.11.1.1234
+
+- tuotannon versionumerointi
+    - samanlainen kuin kehityksen aikainen, mutta kun kehityksessä päästään julkaisemaan tuotantoon
+        tippuu committien numerointi pois ja julkaistaan selkeä kalenterimainen versionumerointi
+        - backend: Backend v2024.11.1
+        - web: Web v2024.11.1
+        - android: Android v2024.11.1
+        - ios: iOS v2024.11.1
