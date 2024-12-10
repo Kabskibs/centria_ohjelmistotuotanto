@@ -1,0 +1,17 @@
+- ongelma
+    - kerrotaan olemassa olevien palveluiden kompastuskivistä
+
+- idea
+    - miten aiotaan muuttaa ko. kenttää luomalla uusi palvelu
+
+- ratkaisu
+    - mitä ollaan suunniteltu
+
+- asiakaskysely
+    - mitä mieltä käyttäjät ovat
+
+- ominaisuudet
+    - mitä pääominaisuuksia sovellukseen on suunniteltu
+
+- toteutus
+    - miten kyseistä ratkaisua lähdetään toteuttamaan
