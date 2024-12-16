@@ -1,0 +1,11 @@
+18.-19.09.2024
+
+Mitä tehtiin:
+- tehtiin alustavaa dokumentaatiota, josta myöhemmin koostetaan lopullinen raportti
+
+Mikä on valmiina:
+- alusta osa raportin WIP-osasta (ensimmäinen blokki) on nyt melkolailla valmis
+- Joona tutustui Figman käyttöön
+
+Mitä seuraavaksi:
+- seuraavaan osaan projektisuunnitelmassa siirtyminen (mm. vaatimusmäärittely ja ohjelmiston ominaisuudet)

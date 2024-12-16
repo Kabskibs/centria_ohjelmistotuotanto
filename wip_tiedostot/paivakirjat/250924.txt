@@ -1,0 +1,16 @@
+25.09.2024
+
+Mitä tehtiin:
+- tutustuttiin tulevaan työosioon, eli vaatimusmäärittelyyn
+- alustavat dokumentit ja niiden pohjat osioon liittyen
+- tehty kartoitusta mahdollisista ominaisuuksista, mm. kilpailijoihiin verrattuna
+	^ tätä voidaan hyödyntää erityisesti vaatimusmäärittelyssä ja kyselyä tehdessä
+
+Mikä on työn alla:
+- webropol-kysely, jossa mahdollisilta ohjelmiston käyttäjiltä kerätään tietoa tarpeellisista ominaisuuksista
+- tämän osion dokumentaatio
+
+Mitä seuraavaksi:
+- tarkempi tutustuminen tulevaan aiheeseen (esim. luento)
+- kyselyn tekeminen ja puskeminen kohderyhmälle
+- dokumentaatio
